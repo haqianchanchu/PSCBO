@@ -1,7 +1,7 @@
 # blockchain oracle
 
 ## Intro
-This program is a proof-of-concept for a secure decentralized voting PSCBO (our proposal in the directory "SecureVote") and an insecure one (in the directory "Vote"). Significantly, this program is at an infant stage just for experimentation.
+This program is a proof-of-concept for a secure decentralized voting PSCBO (our proposal in the directory "secureVote") and an insecure one (in the directory "vote"). Significantly, this program is at an infant stage just for experimentation.
 ## Structure
 ### The explanation
 #### Beacon.py
@@ -15,4 +15,4 @@ Respectively, in the SecureVote and Vote directory, execute Votereliabe.py to ge
 ### Dara test
 To make the experiment feasible, the datatest.py simplifies the experimental process.
 ### Dara analysis
-The directory "Voteresult" records the final data and prints it.
+The directory "Vote_result" records the final data and prints it.
